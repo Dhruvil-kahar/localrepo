@@ -9,3 +9,11 @@ li{
     font-size: 20px;
     font-family:"Roboto Mono", monospace;
 }
+.format{
+    border: 5px rgb(34, 31, 31);
+    border-radius: 10px;
+    background-color: rgb(95, 108, 113);
+    /* width: fit-content; */
+    /* OR */
+    display: inline-block;
+}
